@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test20
+Bundle-SymbolicName: test20;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: pl
+Automatic-Module-Name: test20
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
